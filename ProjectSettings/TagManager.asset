@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3356398853
+    locked: 0
+  - name: Window
+    uniqueID: 602288513
+    locked: 0
+  - name: Dropper
+    uniqueID: 3041832579
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Building
+    uniqueID: 1765329221
+    locked: 0
+  - name: BelowPlayer
+    uniqueID: 2546123725
+    locked: 0
+  - name: Player
+    uniqueID: 2823806077
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2581690049
+    locked: 0
+  - name: Projectile
+    uniqueID: 760684365
+    locked: 0
+  - name: Vehicle
+    uniqueID: 66706413
+    locked: 0

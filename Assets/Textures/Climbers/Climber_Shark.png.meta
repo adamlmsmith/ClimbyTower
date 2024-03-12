@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: f2d6c6e3bb6f84967a15d1d24fa359a4
+timeCreated: 1451512900
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ArmLeft
+    21300002: Head
+    21300004: ArmRight
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ArmLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 50
+        height: 35
+      alignment: 9
+      pivot: {x: 0.8533008, y: 0.552393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.66504, y: 15.6662445}
+        - {x: -42.66504, y: -1.3337555}
+        - {x: -42.66504, y: -19.333755}
+        - {x: -23.66504, y: -19.333755}
+        - {x: 2.334961, y: -16.333755}
+        - {x: 7.334961, y: -12.3337555}
+        - {x: 7.334961, y: 15.6662445}
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 98
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4363805, y: 0.504075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.76529, y: 133.89975}
+        - {x: -42.76529, y: -136.10025}
+        - {x: 51.23471, y: -136.10025}
+        - {x: 51.23471, y: 15.89975}
+        - {x: 20.23471, y: 133.89975}
+    - name: ArmRight
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 147
+        width: 50
+        height: 35
+      alignment: 9
+      pivot: {x: 0.19070923, y: 0.5733503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.464539, y: 14.932739}
+        - {x: -9.535461, y: 14.932739}
+        - {x: -9.535461, y: -14.067261}
+        - {x: -0.5354614, y: -18.06726}
+        - {x: 19.464539, y: -20.06726}
+        - {x: 40.46454, y: -20.06726}
+        - {x: 40.46454, y: -5.0672607}
+        - {x: 27.464539, y: 13.932739}
+    outline: []
+  spritePackingTag: Climbers
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 309b24f700eab4235a7c4882663a90b2
+timeCreated: 1445625929
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HandLeft
+    21300002: ForearmLeft
+    21300004: ArmLeft
+    21300006: Head
+    21300008: ArmRight
+    21300010: ForearmRight
+    21300012: HandRight
+    21300014: Torso
+    21300016: LegLeft
+    21300018: LegRight
+    21300020: LowerLegLeft
+    21300022: LowerLegRight
+    21300024: FootLeft
+    21300026: FootRight
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HandLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 25
+        height: 21
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ForearmLeft
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 211
+        width: 30
+        height: 15
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ArmLeft
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 211
+        width: 33
+        height: 15
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 200
+        width: 45
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ArmRight
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 214
+        width: 33
+        height: 15
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ForearmRight
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 213
+        width: 30
+        height: 16
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HandRight
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 211
+        width: 25
+        height: 21
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Torso
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 108
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LegLeft
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 15
+        height: 33
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LegRight
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 71
+        width: 15
+        height: 33
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LowerLegLeft
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 23
+        width: 15
+        height: 45
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LowerLegRight
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 23
+        width: 15
+        height: 45
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootLeft
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 29
+        height: 16
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FootRight
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 29
+        height: 16
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Climbers
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

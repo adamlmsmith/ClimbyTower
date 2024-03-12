@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c28c52b52bcd64d1aaf55b30e7f6245f
+timeCreated: 1438274269
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_ClimberListHolder: {fileID: 146736, guid: 6c480dc13eae444c8bfb529e1cc33250,
+      type: 2}
+  - m_ClimberSelectButtonPrefab: {fileID: 149658, guid: 96a4b45fcf6584ff5810d47717ad4d0f,
+      type: 2}
+  - m_ScrollRect: {instanceID: 0}
+  - m_ContentPanel: {instanceID: 0}
+  - m_ClimbersUnlockedText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
